@@ -1,4 +1,4 @@
-# Django_test_app
+# Todo_app_django
 Django tutorial 
 
 ## Requirements
